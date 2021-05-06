@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    border-radius: 50%;
+    text-align: center;
+}
+.information
+{
+    display: inline-block;
+    font-size: 15px;
+}
+li{
+    display: inline;
+}
+h6{
+    color: black;
+    font-size: 130%;
+}
